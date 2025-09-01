@@ -1,0 +1,7 @@
+A CLI, or Command Line Interface, lets you input commands to interact with the operating system. 
+
+GUI, or Graphical User Interface, gives users graphics to make it easier to interact with the operating system. 
+
+GUI has menus, images, videos, text, and you can use a mouse to interact with things. 
+
+CLI is faster, and more precise. 
